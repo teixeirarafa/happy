@@ -1,6 +1,4 @@
-<div align="center">
-  <img src=".github/HappyIcon.png">
-</div>
+
 
 <h1 align="center">
   Happy
@@ -54,7 +52,7 @@ A aplicação tem como objetivo a de facilitar o agendamento de visitas à orfan
 ## Para rodar a aplicação na parte do cliente web:
 ```bash
   #Navegar e baixar as depêndencias web
-  cd web
+  cd backend
   yarn install
   
   #Iniciar a aplicação
